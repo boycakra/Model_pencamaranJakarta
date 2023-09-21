@@ -5,6 +5,8 @@ Laporan penelitian ini menggunakan data indeks Standar Pencemar Udara di Provins
 ## Visualisasi Data
 
 Visualisasi data adalah metode untuk menampilkan data numerik secara grafis dari informasi dan data. Pada laporan penelitian ini, kami melakukan visualisasi data indeks Standar Pencemar Udara di Provinsi DKI Jakarta menggunakan visualisasi data numerik, visualisasi data kategorik, dan Time series data.
+![udara](https://github.com/boycakra/Model_pencamaranJakarta/assets/48791469/5ce1dd77-9e4f-4c11-95b4-71e9aaa64bac)
+![Visualisasi](https://github.com/boycakra/Model_pencamaranJakarta/assets/48791469/4711bc44-e79e-4cd1-a716-027ea46a81f9)
 
 ## Regresi Logistik
 
@@ -25,3 +27,5 @@ Berdasarkan Keputusan Menteri Lingkungan Hidup Republik Indonesia Nomor : KEP 45
 | 101-199 | Tidak Sehat     | Bersifat merugikan pada manusia atau kelompok hewan yang peka atau dapat menimbulkan kerusakan pada tumbuhan atau nilai estetika. |
 | 200-299 | Sangat Tidak Sehat | Kualitas udara yang dapat merugikan kesehatan pada sejumlah segmen populasi yang terpapar. |
 | >= 300  | Berbahaya        | Kualitas udara berbahaya yang secara umum dapat merugikan kesehatan yang serius pada populasi (misalnya iritasi mata, batuk, dahak, dan sakit tenggorokan). |
+Hasil Dari Model 
+![log udara](https://github.com/boycakra/Model_pencamaranJakarta/assets/48791469/633eeb06-9b36-47e9-b054-57decf8e22d1)
