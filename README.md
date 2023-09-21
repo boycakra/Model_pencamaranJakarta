@@ -29,5 +29,8 @@ Berdasarkan Keputusan Menteri Lingkungan Hidup Republik Indonesia Nomor : KEP 45
 | >= 300  | Berbahaya        | Kualitas udara berbahaya yang secara umum dapat merugikan kesehatan yang serius pada populasi (misalnya iritasi mata, batuk, dahak, dan sakit tenggorokan). |
 
 
+## Confusion Matrix pada Logistic Regresi
 
+Untuk mengevaluasi kinerja model Logistic Regresi yang digunakan dalam penelitian ini, kami menggunakan Confusion Matrix. Confusion Matrix adalah alat yang berguna untuk mengukur sejauh mana model dapat mengklasifikasikan data dengan benar.
+Hasil Evaluasi nya 
 ![log udara](https://github.com/boycakra/Model_pencamaranJakarta/assets/48791469/633eeb06-9b36-47e9-b054-57decf8e22d1)
