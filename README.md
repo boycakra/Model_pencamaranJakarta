@@ -27,5 +27,7 @@ Berdasarkan Keputusan Menteri Lingkungan Hidup Republik Indonesia Nomor : KEP 45
 | 101-199 | Tidak Sehat     | Bersifat merugikan pada manusia atau kelompok hewan yang peka atau dapat menimbulkan kerusakan pada tumbuhan atau nilai estetika. |
 | 200-299 | Sangat Tidak Sehat | Kualitas udara yang dapat merugikan kesehatan pada sejumlah segmen populasi yang terpapar. |
 | >= 300  | Berbahaya        | Kualitas udara berbahaya yang secara umum dapat merugikan kesehatan yang serius pada populasi (misalnya iritasi mata, batuk, dahak, dan sakit tenggorokan). |
-Hasil Dari Model 
+
+
+
 ![log udara](https://github.com/boycakra/Model_pencamaranJakarta/assets/48791469/633eeb06-9b36-47e9-b054-57decf8e22d1)
